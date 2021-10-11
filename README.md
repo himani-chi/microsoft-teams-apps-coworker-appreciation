@@ -28,7 +28,7 @@ This can be considered as the PowerApps based, leader-board version of the Open 
 ## Get started
 This app can be accessed in the Teams Store under "Inspection". The purpose of this GitHub repo is to make the code available to those who want to modify the code and extend the app (e.g., connect the database to your own internal databse).
 
-Begin with the [Solution overview](https://github.com/himani-chi/microsoft-teams-apps-inspection/wiki/Documentation) to read about what the app does and how it works.
+Begin with the [Solution overview](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Architecture) to read about what the app does and how it works.
 
 When you're ready to try out Co-Worker Appreciation App, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide).
 
