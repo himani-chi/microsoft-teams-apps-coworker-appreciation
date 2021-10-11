@@ -3,7 +3,10 @@ page_type: sample
 languages:
 - PowerApps
 products:
-- office-teams
+- Microsoft Teams
+- Power Automate
+- SharePoint Online
+- Power Apps
 description: Enables people to congratulate their colleagues inside Teams and record and tally congraluations for each colleague in a leaderboard
 urlFragment: microsoft-teams-app-inspection
 ---
