@@ -10,7 +10,7 @@ urlFragment: microsoft-teams-app-inspection
 
 # Co-Worker Appreciation App Template
 
-| [Overview](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki/Architecture) |
+| [Overview](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki) | [Deployment guide](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide) | [Architecture](https://github.com/himani-chimicrosoft-teams-apps-coworker-appreciation/wiki/Architecture) |
 | ---- | ---- | ---- |
 
 Using the co-worker appreciation template in Microsoft teams, users can recognize their colleague's achievements right within the Teams' context. WHen they can click to reward a colleague, recipients and other team members are notified about the award details in the channel by tagging them in a channel conversation. 
@@ -25,9 +25,9 @@ This can be considered as the PowerApps based, leader-board version of the Open 
 ## Get started
 This app can be accessed in the Teams Store under "Inspection". The purpose of this GitHub repo is to make the code available to those who want to modify the code and extend the app (e.g., connect the database to your own internal databse).
 
-Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) to read about what the app does and how it works.
+Begin with the [Solution overview](https://github.com/himani-chi/microsoft-teams-apps-inspection/wiki/Documentation) to read about what the app does and how it works.
 
-When you're ready to try out Company Communicator, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide).
+When you're ready to try out Co-Worker Appreciation App, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide).
 
 ## Contributing
 
