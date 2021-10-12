@@ -13,7 +13,7 @@ urlFragment: microsoft-teams-app-inspection
 
 # Co-Worker Appreciation App Template
 
-| [Overview](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki) | [Deployment guide](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide) | [Architecture](https://github.com/himani-chimicrosoft-teams-apps-coworker-appreciation/wiki/Architecture) |
+| [Overview](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki) | [Deployment guide](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide) | [Architecture](https://github.com/himani-chi/microsoft-teams-apps-coworker-appreciation/wiki/Architecture) |
 | ---- | ---- | ---- |
 
 Using the co-worker appreciation template in Microsoft teams, users can recognize their colleague's achievements right within the Teams' context. WHen they can click to reward a colleague, recipients and other team members are notified about the award details in the channel by tagging them in a channel conversation. 
